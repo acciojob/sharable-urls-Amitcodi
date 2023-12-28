@@ -1,1 +1,14 @@
-
+#button{
+	color:white;
+	background-color:blue;
+	border:none;
+	padding:10px;
+	border-radius:5px;
+	margin:10px;
+	font-size:bold;
+	cursor:pointer;
+	transition: 0.3s;
+}
+#button:hover{
+	background-color:red;
+}
